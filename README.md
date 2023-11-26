@@ -14,3 +14,7 @@ I have uploaded the results of all three models we used.
 
 We tried different approaches like zooming-in/out, mobile camera moving infront of face and others to 
 check robustness of model and trick deepfake generation models.
+
+![Proposed Method]([/path/to/image.jpg](https://github.com/LeoRafiFaisal/JunctionXHackathon/blob/Results/proposed_meth.png)https://github.com/LeoRafiFaisal/JunctionXHackathon/blob/Results/proposed_meth.png)
+
+
